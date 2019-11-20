@@ -1,8 +1,3 @@
-//Viansa Schmulbach
-//Homework #1
-//AI
-//27 September 2019
-
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 import java.util.Hashtable;
